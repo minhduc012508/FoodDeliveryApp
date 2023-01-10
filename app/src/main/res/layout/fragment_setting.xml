@@ -58,6 +58,7 @@
                 android:layout_width="0dp"
                 android:layout_height="wrap_content"
                 android:layout_weight="50"
+                style="@style/mySwitchStyle1"
                 android:text="OFF"
                 android:textColor="@color/greyL"></Switch>
         </LinearLayout>
@@ -82,6 +83,7 @@
                 android:layout_width="0dp"
                 android:layout_height="wrap_content"
                 android:layout_weight="50"
+                style="@style/mySwitchStyle1"
                 android:text="OFF"
                 android:textColor="@color/greyL"></Switch>
         </LinearLayout>
@@ -124,6 +126,7 @@
                 android:layout_width="0dp"
                 android:layout_height="wrap_content"
                 android:layout_weight="50"
+                style="@style/mySwitchStyle1"
                 android:text="OFF"
                 android:textColor="@color/greyL"></Switch>
         </LinearLayout>
@@ -148,6 +151,7 @@
                 android:layout_width="0dp"
                 android:layout_height="wrap_content"
                 android:layout_weight="50"
+                style="@style/mySwitchStyle1"
                 android:text="OFF"
                 android:textColor="@color/greyL"></Switch>
         </LinearLayout>

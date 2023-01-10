@@ -12,4 +12,8 @@
         <item name="android:textColor">@color/white</item>
         <item name="android:textAlignment">center</item>
     </style>
+    <style name="mySwitchStyle1">
+        <item name="android:thumb">@drawable/thumb_yellow</item>
+        <item name="android:track">@drawable/track_yellow</item>
+    </style>
 </resources>
