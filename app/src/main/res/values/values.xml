@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="myEdittextStyle" parent="TextAppearance.AppCompat">
+        <item name="android:textColor">@color/greyL</item>
+        <item name="android:textColorHint">@color/greyH</item>
+        <item name="android:textSize">15dp</item>
+        <item name="android:drawablePadding">15dp</item>
+    </style>
+    <style name="myTextviewStyle1">
+        <item name="android:textSize">25dp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textAlignment">center</item>
+    </style>
+</resources>

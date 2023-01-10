@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">UI_Design_3_01</string>
+    <string name="xinchao">Xin chào</string>
+    <string name="timkiemvadat">Tìm kiếm và đặt hàng</string>
+    <string name="giamgia">Giảm giá 49%</string>
+    <string name="dathangngay">Đặt hàng ngay</string>
+    <string name="timmonanyeuthich">Tìm món ăn bạn yêu thích</string>
+    <string name="theloai">Thể loại</string>
+    <string name="dexuat">Đề xuất</string>
+    <string name="xemtat">Xem tất cả</string>
+    <string name="hovaten">Họ và tên</string>
+    <string name="namsinh">Năm sinh</string>
+    <string name="sodienthoai">Số điện thoại</string>
+    <string name="diachi">Địa chỉ</string>
+    <string name="nhovaten">Nhập họ và tên</string>
+    <string name="nnamsinh">Nhập năm sinh</string>
+    <string name="nsodienthoai">Nhập số điện thoại</string>
+    <string name="ndiachi">Nhập địa chỉ</string>
+    <string name="suathongtin">Sửa thông tin</string>
+    <string name="huy">Hủy</string>
+    <string name="giohangcuatoi">Giỏ hàng của tôi</string>
+    <string name="checkout">Check out</string>
+    <string name="dangbaotri">Hệ thống đang bảo trì</string>
+    <string name="caidat">Cài đặt</string>
+    <string name="hethong">Hệ thống</string>
+    <string name="nhanthongbao">Nhận thông báo</string>
+    <string name="tudongthanhtoan">Tự động thanh toán</string>
+    <string name="giaodien">Giao diện</string>
+    <string name="sangtoi">Sáng / tối</string>
+</resources>

@@ -1,0 +1,21 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.UI_Design_3_01" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/primaryColor</item>
+
+        <!-- Màu statusbar -->
+        <item name="colorPrimaryVariant">@color/primaryColor</item>
+
+        <item name="colorOnPrimary">@color/greyH</item>
+
+        <!-- Màu cursor -->
+        <item name="colorSecondary">@color/primaryColor</item>
+
+        <item name="colorSecondaryVariant">@color/secondaryDarkColor</item>
+        <item name="colorOnSecondary">@color/greyH</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+    </style>
+</resources>
